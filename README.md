@@ -14,7 +14,7 @@ This project has two components
 	<li>	Insights</li>
 	<li>	Design team Experience Report</li>
 	</ul>
-Pillar 1 explains the low-fidelity diagrams created for RCE SK and Pillar 2 explains the High-fidelity diagrams both of this pillars contains the feedback from stakeholders
+Pillar 1 explains the low-fidelity diagrams created for RCE SK and Pillar 2 explains the High-fidelity diagrams. Both of this pillars contains the feedback from stakeholders
 in form of insight documnet.Pillar 2 has Design team Experience Report that explain our endeavours.
 
 <ul><B>Acknowledgement	
